@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/pixel-city.gif" alt="Animated pixel-art city" width="100%" />
 </p>
 
-<h1 align="center">Víctor Pérez</h1>
+<h1 align="center">Víctor Pérez Sosa</h1>
 
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> · DAM graduate · Gran Canaria, Spain
@@ -13,11 +13,17 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-vititooxs-projects.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/víctor-pérez-sosa-5960b1356/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:victorperezsosa2001@gmail.com"><strong>Email</strong></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/vititoOX/NominaHub"><strong>NominaHub</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/vititoOX/CafesAPP"><strong>Cafetería Escolar</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/vititoOX/Portfolio"><strong>Portfolio</strong></a>
 </p>
 
 ---
