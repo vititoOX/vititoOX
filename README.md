@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/vititoOX/NominaHub"><strong>NominaHub</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/FanNum1CynthiaJudithAfonsoGarcia/Cafeteraescolarapp"><strong>Cafetería Escolar</strong></a>
+  <a href="https://github.com/vititoOX/CafesAPP"><strong>Cafetería Escolar</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/vititoOX/Portfolio"><strong>Portfolio</strong></a>
 </p>
@@ -50,18 +50,19 @@ Full-stack ERP-style application for employee and payroll management.
 </td>
 <td width="50%" valign="top">
 
-### ☕ [Cafetería Escolar](https://github.com/FanNum1CynthiaJudithAfonsoGarcia/Cafeteraescolarapp)
+### ☕ [Cafetería Escolar](https://github.com/vititoOX/CafesAPP)
 
 **School cafeteria ordering platform**
 
-Full-stack team project for managing a digital cafeteria workflow.
+Full-stack application for managing a digital cafeteria workflow.
 
 - React + TypeScript + Vite
-- Express API + Prisma ORM
-- MySQL relational data model
-- Users, products, orders and payments
-- Stripe payment integration
-- Thermal-printer integration for order tickets
+- Express REST API + Prisma ORM
+- MySQL + Docker Compose
+- JWT authentication and role-based access
+- Orders, pickup slots and allergen information
+- Optional Stripe payments and thermal-printer integration
+- GitHub Actions build and typecheck
 
 </td>
 </tr>
